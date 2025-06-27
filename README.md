@@ -6,7 +6,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/igor-ml-2007/data-streaming/blob/main/data-streaming-pipeline/project_architecture.png)
 
 The project is designed with the following components:
 
